@@ -1,0 +1,11 @@
+{
+  "name": "type2speak",
+  "version": "1.0.0",
+  "description": "Text2Speech",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sunny Odibo",
+  "license": "ISC"
+}
